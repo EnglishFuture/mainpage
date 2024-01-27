@@ -14,9 +14,9 @@
   --container-color: #fff;
   --white-color: #fff;
 
-  --scroll-color: hsl(0, 90%, 96%);
-  --scroll-thumb-color: hsl(0, 90%, 90%);
-  --scroll-thumb-color-alt: hsl(0, 90%, 80%);
+  --scroll-color: hsl(179, 90%, 96%);
+  --scroll-thumb-color: hsl(179, 90%, 90%);
+  --scroll-thumb-color-alt: hsl(179, 90%, 80%);
 
   /* Fonts  */
 
@@ -369,7 +369,7 @@ li {
   border-radius: 2rem;
   transition: 0.3s;
   margin-top: 5rem;
-  box-shadow: 1rem 1rem 2rem #ff000013;
+  box-shadow: 1rem 1rem 2rem #00f7ff27;
 }
 
 .data__btn-box {
@@ -402,7 +402,7 @@ li {
   flex-direction: column;
   row-gap: 1rem;
   hyphens: auto;
-  box-shadow: 0 0 2rem #fd292927;
+  box-shadow: 0 0 2rem #00f7ff27;
 }
 
 .quality__title {
@@ -730,7 +730,7 @@ li {
   border-radius: 1.5rem;
   width: 30rem;
   color: var(--text-color);
-  box-shadow: 0 1rem 2rem #fd292927;
+  box-shadow: 0 1rem 2rem #00f7ff27;
 }
 
 .msg__info--data {
@@ -762,7 +762,7 @@ li {
   color: var(--white-color);
   cursor: pointer;
   transition: 0.3s;
-  box-shadow: 0 1rem 2rem #ffffff50;
+  box-shadow: 0 1rem 2rem #00f7ff27;
 }
 
 .msg__btn:hover {
